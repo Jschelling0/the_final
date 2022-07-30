@@ -1,0 +1,48 @@
+Average_Temp_of_Cities
+-
+Country
+City
+Jan
+Feb
+Mar
+Apr
+May
+Jun
+Jul
+Aug
+Sep
+Oct
+Nov
+Dec
+Year FK >- FAOSTAT_Data_USA.Year
+Continent
+
+
+Environment_Temp_Change
+-
+Area_Code varchar pk
+Area varchar
+Months_Code
+Months
+Element
+
+
+FAOSTAT_Data_USA
+-
+Domain_Code
+Domain
+Area_Code FK >- Environment_Temp_Change.Area_Code
+Area FK >- Environment_Temp_Change.Area
+Element_Code
+Element FK >- Environment_Temp_Change.Element
+Months_Code FK >- Environment_Temp_Change.Months_Code
+Months FK >- Environment_Temp_Change.Months
+Year_Code
+Year
+Unit
+Value
+Flag
+Flag_Description
+
+
+
