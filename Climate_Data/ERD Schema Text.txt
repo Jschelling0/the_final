@@ -1,0 +1,71 @@
+Countries
+-
+Country_Codes
+Country_Name FK >- Factors.Country
+Capital_City FK >- Temp_By_City.City
+Region
+Income_Group
+Lending_Category
+
+
+Disasters
+-
+Year varchar FK >- Temp_By_Country.Year
+Country varchar pk fk FK >- Emissions.Country
+ISO FK >- Factors.ISO
+Region FK >- Factors.Region
+Continent
+Disaster
+Subgroup
+Disaster_Type
+Subtype
+Total_Deaths
+Total_Affected
+Longitude FK >- Temp_By_City.Longitude
+Latitude
+
+
+Emissions
+-
+ISO
+Country FK >- Temp_By_City.Country
+Year FK >- Temp_By_Country.Year
+CO2
+Methane
+Nitrous_Oxide
+Total_GHG
+
+
+Factors
+-
+ISO FK >- Emissions.ISO
+Country FK >- Temp_By_Country.Country
+Region FK >- Countries.Region
+Year
+Pop_Total
+Pop_Growth
+GDP
+Imports
+Exports
+Ave._Precip.
+
+
+Temp_By_City
+-
+Year FK >- Emissions.Year
+Month 
+Day date
+City
+Country
+Ave._Temp_(C) FK >- Temp_By_Country."Ave._Temp._(C)"
+Ave._Temp._(F)
+Latitude FK >- Disasters.Latitude
+Longitude
+
+
+Temp_By_Country
+-
+Country FK >- Emissions.Country
+Year FK >- Factors.Year
+Ave._Temp._(C)
+Ave._Temp._(F) FK >- Temp_By_City."Ave._Temp._(F)"
