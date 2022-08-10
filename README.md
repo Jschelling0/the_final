@@ -1,22 +1,57 @@
-# The Global Impact of Climate Change
-
-Final Project Team Members:
-
-Assigned Role - Square (Repository): Kofi
-
-Assigned Role - Triangle (Machine Learning): John
-
-Assigned Role - Circle (Database): Ana
+# Final Project: Climate Change
 
 
-Mode of Communication: Slack DM - All team members are on different work schedules and time zones.  Group Messaging in Slack, at this time, seems like a good communication source and outlet. We are also utilizing Zoom sessions as well.
-
-Data Source: Food and Agriculture Organization of the United Nations (https://www.fao.org/faostat/en/#home) & Kaggle (https://www.kaggle.com)
-
-The FAOSTAT Temperature Change domain disseminates statistics of mean surface temperature change by country, with annual updates. The current dissemination covers the period 1961–2020. Statistics are available for monthly, seasonal and annual mean temperature anomalies, i.e., temperature change with respect to a baseline climatology, corresponding to the period 1951–1980. The standard deviation of the temperature change of the baseline methodology is also available. Data are based on the publicly available GISTEMP data, the Global Surface Temperature Change data distributed by the National Aeronautics and Space Administration Goddard Institute for Space Studies (NASA-GISS).
 
 
-Overview of the Project
+https://user-images.githubusercontent.com/101373142/183996838-03000bfd-0d22-44e3-abc6-f8317436ebce.mp4
 
-We chose cimate change for our final project because it is a very important issue that affects everyone on the planet. 
-Each year, the temperature on the planet rises causing a domino effects of natural disasters and catastrophes.  Some studies have shown that the planet will reach a temperature of 150 dgrees fahrenheit by the year 2050.  We have collected several data sets to determine if that is indeed true.
+
+ 
+
+## Final Project Team Members:
+
+•	Assigned Role - Square (Repository): Kofi
+
+•	Assigned Role - Triangle (Machine Learning): John
+
+•	Assigned Role - Circle (Database): Ana
+
+
+## Mode of Communication: 
+
+
+Slack DM - All team members are on different work schedules and time zones. Group Messaging in Slack, currently, seems like a good communication source and outlet. We are also utilizing Zoom sessions as well.
+
+
+## Data Resources:
+
+
+•	General Statistics (Population, GDP, etc.): The World Bank DataBank
+
+•	Emissions: Our World in Data
+
+•	USA Emissions: U.S. Energy Information Administration
+
+•	Global Temperature: Kaggle
+
+•	USA Temperature: National Centers for Environmental Information
+
+•	Disasters/Extreme Weather: EM-DAT International Disasters Database
+
+
+## Overview of the Project:
+
+
+We chose climate change for our final project because it is a very important issue that affects everyone on the planet. Rising temperatures, extreme weather, and natural disasters are experienced globally each year. Some studies have shown that the planet will reach a temperature of 150 degrees Fahrenheit by the year 2050. These changes in our environment indicate a need for adaptability over time across the globe. 
+Data has been collected to better understand the nature of climate change as it relates to population growth, greenhouse gases, and temperature. Our group’s analysis hopes to determine the following:
+
+•	How have emissions changed over time?
+
+•	Is there a correlation between population growth and climate change?
+
+•	How does temperature and rate of emissions relate to extreme weather?
+
+•	What countries are most at-risk of climate change?
+
+•	Will the Earth’s temperature reach 150 degrees Fahrenheit by the year 2050? Will Tucson reach 150 degrees Fahrenheit by the year 2050?
+
