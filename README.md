@@ -28,7 +28,7 @@ Slack DM - All team members are on different work schedules and time zones. Grou
 
 •	General Statistics (Population, GDP, etc.): The World Bank DataBank
 
-•	Emissions: Our World in Data
+•	Global Emissions: Our World in Data
 
 •	USA Emissions: U.S. Energy Information Administration
 
