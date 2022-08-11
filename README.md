@@ -2,10 +2,6 @@
 
 
 
-
-https://user-images.githubusercontent.com/101373142/183996838-03000bfd-0d22-44e3-abc6-f8317436ebce.mp4
-
-
  
 
 ## Final Project Team Members:
