@@ -69,3 +69,85 @@ Country FK >- Emissions.Country
 Year FK >- Factors.Year
 Ave._Temp._(C)
 Ave._Temp._(F) FK >- Temp_By_City."Ave._Temp._(F)"
+
+
+AZ_Annual_Average_Temps
+-
+State
+Year varchar FK
+Degrees Fahrenheit
+Anomaly
+
+
+AZ_CO2_Fossil_Fuels_Residential
+-
+State
+Year varchar FK
+Coal
+Petroleum_Products
+Natural Gas
+Total
+
+
+AZ_CO2_Fossil_Fuels_Commercial
+-
+State
+Year varchar FK
+Coal
+Petroleum_Products
+Natural Gas
+Total
+
+
+AZ_CO2_Fossil_Fuels_Industrial
+-
+State
+Year varchar FK
+Coal
+Petroleum_Products
+Natural Gas
+Total
+
+
+
+AZ_CO2_Fossil_Fuels_Transportation
+-
+State
+Year varchar FK
+Coal
+Petroleum_Products
+Natural Gas
+Total
+
+
+AZ_CO2_Fossil_Fuels_Electric_PowerAZ
+-
+State
+Year varchar FK
+Coal
+Petroleum_Products
+Natural Gas
+Total
+
+
+AZ_CO2_Per_Capita
+-
+State
+Year varchar FK
+Metric_Ton_Energy__Released_CO2_Per_Person
+
+
+AZ_Energy-Related_CO2
+-
+State
+Year varchar FK
+Million_Metric_Ton_of_Energy_Released_CO2
+
+
+AZ_Monthly_Average_Temps
+-
+State
+Month
+Year varchar FK
+Degrees Fahrenheit
+Anomaly

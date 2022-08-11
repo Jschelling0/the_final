@@ -1,0 +1,79 @@
+AZ_Annual_Average_Temps
+-
+State FK >- AZ_CO2_Fossil_Fuels_Commercial.State
+Year varchar FK
+Degrees Fahrenheit FK >- AZ_Monthly_Average_Temps.Degrees
+Anomaly
+
+
+AZ_CO2_Fossil_Fuels_Residential
+-
+State FK >- AZ_CO2_Fossil_Fuels_Electric_PowerAZ.State
+Year varchar FK
+Coal
+Petroleum_Products
+Natural Gas
+Total
+
+
+AZ_CO2_Fossil_Fuels_Commercial
+-
+State
+Year varchar FK >- AZ_Annual_Average_Temps.Year
+Coal FK >- AZ_CO2_Fossil_Fuels_Residential.Coal
+Petroleum_Products FK >- AZ_CO2_Fossil_Fuels_Residential.Petroleum_Products
+Natural Gas FK >- AZ_CO2_Fossil_Fuels_Transportation.Coal
+Total FK >- AZ_CO2_Fossil_Fuels_Transportation.Total
+
+
+AZ_CO2_Fossil_Fuels_Industrial
+-
+State
+Year varchar FK
+Coal FK >- AZ_CO2_Fossil_Fuels_Residential.Coal
+Petroleum_Products FK >- AZ_CO2_Fossil_Fuels_Residential.Petroleum_Products
+Natural Gas FK >- AZ_CO2_Fossil_Fuels_Residential.Natural
+Total FK >- AZ_CO2_Fossil_Fuels_Residential.Total
+
+
+
+AZ_CO2_Fossil_Fuels_Transportation
+-
+State FK >- AZ_Monthly_Average_Temps.State
+Year varchar FK >- AZ_Monthly_Average_Temps.Year
+Coal
+Petroleum_Products FK >- AZ_CO2_Fossil_Fuels_Commercial.Petroleum_Products
+Natural Gas FK >- AZ_CO2_Fossil_Fuels_Commercial.Natural
+Total
+
+
+AZ_CO2_Fossil_Fuels_Electric_PowerAZ
+-
+State
+Year varchar FK
+Coal FK >- AZ_CO2_Fossil_Fuels_Residential.Coal
+Petroleum_Products FK >- AZ_CO2_Fossil_Fuels_Industrial.Petroleum_Products
+Natural Gas FK >- AZ_CO2_Fossil_Fuels_Industrial.Natural
+Total FK >- AZ_CO2_Fossil_Fuels_Industrial.Total
+
+
+AZ_CO2_Per_Capita
+-
+State FK >- AZ_CO2_Fossil_Fuels_Industrial.State
+Year varchar FK >- AZ_CO2_Fossil_Fuels_Industrial.Year
+Metric_Ton_Energy__Released_CO2_Per_Person 
+
+AZ_Energy-Related_CO2
+-
+State FK >- AZ_CO2_Per_Capita.State
+Year varchar FK >- AZ_CO2_Per_Capita.Year
+Million_Metric_Ton_of_Energy_Released_CO2 FK >- AZ_CO2_Per_Capita.Metric_Ton_Energy__Released_CO2_Per_Person
+
+
+AZ_Monthly_Average_Temps
+-
+State
+Month 
+Year varchar
+Degrees Fahrenheit
+Anomaly FK >- AZ_Annual_Average_Temps.Anomaly
