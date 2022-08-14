@@ -164,8 +164,20 @@ The rapid warming, we are experiencing today can only be explained by increasing
 Looking at the chart above (The Number of Disasters Every Year) from the year 2000 to 2019. The number of disasters that occurred in 2005 was very high 440, 000,000 of number of disasters globally as compared to 2002 which was 420,000,000 of the number of disasters globally. These numbers fluctuated though out the years and in 2018 dropped drastically but then rose again to 400,000,000 of number of disasters globally in 2019.
 
 
+### What countries are most at-risk of climate change?
 
 
+![image](https://user-images.githubusercontent.com/96086671/184541327-91cc6d9c-07d2-4df9-ad64-0488265aace7.png)
 
+
+Looking at this interactive chart (Total Greenhouse Gas Emissions) shows the breakdown of global CO2 emissions by Country.
+
+We see that until well into the 20th century, global emissions were dominated by the United States. 
+
+Going further into the 20th century, we see a significant rise in emissions most notably China claiming dominance over United States. For this chart countries most at risk of Climate change would be China and United States.
+
+The interactive chart for Larger Countries shows the country Germany that emits low amounts of carbon dioxide, methane, and other greenhouse gas emissions have relatively low temperatures as compared to China and the United States. China and United States temperatures are high because of their massive increases in carbon dioxide, methane, and other greenhouse gas emissions.
+
+The interactive chart for Smaller Countries shows Saudi Arabia is on top exhibiting high temperature figures whereas Bangladesh is at the bottom with low temperatures. This is because Saudi Arabia emits high amounts of carbon dioxide, methane, and other greenhouse gas emissions as compared to Bangladesh and the Dominican Republic.
 
 
