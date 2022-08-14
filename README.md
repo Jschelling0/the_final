@@ -75,6 +75,8 @@ We chose climate change for our final project because it is a very important iss
 
 Python, Jupyter Notebook, Pandas, and PostgreSQL
 
+## Google Slides
+https://docs.google.com/presentation/d/1SSLEs9GDd6zxgO7aJUOREzW75jjVbA5yn8sJpnLifls/edit?usp=sharing
 
 ## Results/Deliverables
 
