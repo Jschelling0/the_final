@@ -181,3 +181,71 @@ The interactive chart for Larger Countries shows the country Germany that emits 
 The interactive chart for Smaller Countries shows Saudi Arabia is on top exhibiting high temperature figures whereas Bangladesh is at the bottom with low temperatures. This is because Saudi Arabia emits high amounts of carbon dioxide, methane, and other greenhouse gas emissions as compared to Bangladesh and the Dominican Republic.
 
 
+### Will the Earth’s temperature reach 150 degrees Fahrenheit by the year 2050? Will Tucson reach 150 degrees Fahrenheit by the year 2050?
+
+
+Arizona and the rest of the world will reach 150 degrees if CO2 emissions are not reduced.
+
+
+ Year Anomaly	Metric Tons of Energy-Related CO2 per person
+0	1970	-0.8	13.90
+1	1971	-1.6	14.20
+2	1972	-0.2	15.00
+3	1973	-1.4	16.20
+4	1974	-0.3	16.50
+5	1975	-1.9	16.70
+6	1976	-0.8	18.70
+7	1977	0.4	20.80
+8	1978	0.0	19.60
+9	1979	-1.0	21.30
+10	1980	0.4	19.30
+11	1981	1.5	21.30
+12	1982	-1.1	20.20
+13	1983	-0.6	18.20
+14	1984	-0.4	19.10
+15	1985	-0.2	19.20
+16	1986	0.8	17.00
+17	1987	-0.5	16.40
+18	1988	0.4	16.90
+19	1989	1.4	18.10
+20	1990	-0.1	17.10
+21	1991	-0.6	16.90
+22	1992	-0.2	17.10
+23	1993	0.0	17.00
+24	1994	0.8	16.90
+25	1995	1.2	15.10
+26	1996	2.1	15.00
+27	1997	0.7	15.10
+28	1998	-0.5	15.70
+29	1999	1.0	16.05
+30	2000	1.9	16.79
+31	2001	1.4	16.85
+32	2002	1.4	16.40
+33	2003	2.1	16.40
+34	2004	0.6	17.20
+35	2005	1.3	16.70
+36	2006	1.3	16.70
+37	2007	1.8	16.60
+38	2008	0.8	16.30
+39	2009	1.3	14.80
+40	2010	0.6	15.50
+41	2011	0.5	15.10
+42	2012	2.3	14.60
+43	2013	0.6	15.00
+44	2014	2.4	14.50
+45	2015	2.0	13.90
+46	2016	2.4	13.10
+47	2017	3.2	12.80
+48	2018	2.5	13.10
+49	2019	0.5	12.70
+
+
+Looking at the table above and the Metric Tons of Energy-Related CO2 per person for the state of Arizona is very high. From 1970 to 2019 shows that through out the years each CO2 emissions by individuals ranged from 12.70 to 21.30 Metric Tons of Energy-Related. We have to keep in mind that the state of Arizona population in the coming years will increase meaning more people will emit more CO2 metric tons of energy.
+
+Carbon dioxide emissions are the primary driver of global climate change. It’s widely recognized that to avoid the worst impacts of climate change, the world needs to urgently reduce emissions (CO2 emissions. https://ourworldindata.org/co2-emissions)
+
+
+
+
+
+
