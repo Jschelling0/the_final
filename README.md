@@ -123,7 +123,9 @@ The r-squared is: 0.26704026672554015
 
 Linear regression is used to find a relationship between a dependent variable and one or more independent variables. 
 
-Looking at the linear regression line above, the correlation between population growth by percent and the maximum temperature is strong to very strong because the R-value is 0.3. This means that temperature which is the y-axis depends on the population growth by percent which is the x-axis. As the population grows, temperature also increases.
+Looking at the linear regression line above, the correlation between population growth by percent and the maximum temperature is strong to very strong because the R-value is 0.3. This means that temperature which is the y-axis depends on the population growth by percent which is the x-axis.
+
+As the population grows, temperature also increases.
 
 
 ![image](https://user-images.githubusercontent.com/96086671/184540602-35bd4e7f-737f-4a69-9776-59e9b890eec0.png)
