@@ -113,6 +113,23 @@ We see that until well into the 20th century, global emissions were dominated by
 In the second half of the 20th century, we see a significant rise in emissions most notably China claiming dominance over United States. We also see a significant rise in emissions in India whiles United States starts to produce low emissions.
 
 
+• Is there a correlation between population growth and climate change?
+
+
+![image](https://user-images.githubusercontent.com/96086671/184540641-da08ea28-d62e-48be-9bd7-debcf564caef.png)
+
+
+The r-squared is: 0.26704026672554015
+Linear regression is used to find a relationship between a dependent variable and one or more independent variables. 
+
+Looking at the linear regression line above, the correlation between population growth by percent and the maximum temperature is strong to very strong because the R-value is 0.3. This means that temperature which is the y-axis depends on the population growth by percent which is the x-axis. As the population grows, temperature also increases.
+
+
+![image](https://user-images.githubusercontent.com/96086671/184540602-35bd4e7f-737f-4a69-9776-59e9b890eec0.png)
+
+
+Human emissions of carbon dioxide and other greenhouse gases are a primary driver of climate change and present one of the world’s most pressing challenges. Rapid population growth worsens the impacts of climate change by straining resources and exposing more people to climate related risks especially in low-resource regions.
+
 
 
 
