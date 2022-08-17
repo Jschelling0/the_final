@@ -6,11 +6,11 @@
 
 ## Final Project Team Members:
 
-•	Assigned Role - Square (Repository): Kofi
+•	Assigned Role - Repository: Kofi
 
-•	Assigned Role - Triangle (Machine Learning): John
+•	Assigned Role - Machine Learning: John
 
-•	Assigned Role - Circle (Database): Ana
+•	Assigned Role - Database: Ana
 
 
 ## Mode of Communication: 
@@ -34,6 +34,9 @@ Slack DM - All team members are on different work schedules and time zones. Grou
 
 •	Disasters/Extreme Weather: EM-DAT International Disasters Database
 
+•	Food and Agriculture Organization of the United Nations
+
+
 
 ## Overview of the Project:
 
@@ -52,24 +55,9 @@ We chose climate change for our final project because it is a very important iss
 
 • What countries are most at-risk of climate change?
 
-• Will the Earth’s temperature reach 150 degrees Fahrenheit by the year 2050? Will Tucson reach   150 degrees Fahrenheit by the year 2050?
+• Will the Earth’s temperature reach 150 degrees Fahrenheit by the year 2050? Will Arizona reach   150 degrees Fahrenheit by the year 2050?
 
 
-## Data Resources:
-
-• General Statistics (Population, GDP, etc.): The World Bank Databank
-
-• Global Emissions: Our World in Data
-
-• USA Emissions: U.S. Energy Information Administration
-
-• Global Temperature: Kaggle
-
-• USA Temperature: National Centers for Environmental Information
-
-• Disasters/Extreme Weather: EM-DAT International Disasters Database
-
-•	Data Source: Food and Agriculture Organization of the United Nations       (https://www.fao.org/faostat/en/#home)
 
 ## Software: 
 
@@ -298,9 +286,4 @@ Arizona and the rest of the world will reach 150 degrees if CO2 emissions are no
 Looking at the table above and the Metric Tons of Energy-Related CO2 per person for the state of Arizona is very high. From 1970 to 2019 shows that through out the years each CO2 emissions by individuals ranged from 12.70 to 21.30 Metric Tons of Energy-Related. We have to keep in mind that the state of Arizona population in the coming years will increase meaning more people will emit more CO2 metric tons of energy.
 
 Carbon dioxide emissions are the primary driver of global climate change. It’s widely recognized that to avoid the worst impacts of climate change, the world needs to urgently reduce emissions (CO2 emissions. https://ourworldindata.org/co2-emissions)
-
-
-
-
-
 
