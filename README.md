@@ -13,11 +13,6 @@
 •	Assigned Role - Database: Ana
 
 
-## Mode of Communication: 
-
-
-Slack DM - All team members are on different work schedules and time zones. Group Messaging in Slack, currently, seems like a good communication source and outlet. We are also utilizing Zoom sessions as well.
-
 
 ## Data Resources:
 
