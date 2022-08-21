@@ -288,3 +288,35 @@ Looking at the table above and the Metric Tons of Energy-Related CO2 per person 
 
 Carbon dioxide emissions are the primary driver of global climate change. It’s widely recognized that to avoid the worst impacts of climate change, the world needs to urgently reduce emissions (CO2 emissions. https://ourworldindata.org/co2-emissions)
 
+
+   Predictions	Actual
+   
+13	60.184375	  59.2
+
+39	61.196094	  61.1
+
+30	60.878906	  61.7
+
+45	61.725000	  61.8
+
+17	60.025000	  59.3
+
+48	61.967188	  62.3
+
+26	60.050781	  61.9
+
+25	60.008594	  61.0
+
+32	61.435156	  61.2
+
+19	59.694531	  61.2
+
+12	59.907813	  58.7
+
+4	58.846094	   59.5
+
+37	60.978125	  61.6
+
+rf.score 0.34613178210694606
+
+This score measures how many labels the model got wrong out of the total number of predictions. The rf score of 35% is the percent of predictions that were incorrect. This was calculated using Scikit-Learn using the true labels from the test set and the predicted labels for the test set.
