@@ -322,7 +322,7 @@ rf.score 0.34613178210694606
 This score measures how many labels the model got wrong out of the total number of predictions. The rf score of 35% is the percent of predictions that were incorrect. This was calculated using Scikit-Learn using the true labels from the test set and the predicted labels for the test set.
 
 
-   Prediction	Actual
+    Prediction	Actual
    
 13	59.649678	  59.2
 
