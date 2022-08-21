@@ -320,3 +320,36 @@ Carbon dioxide emissions are the primary driver of global climate change. It’s
 rf.score 0.34613178210694606
 
 This score measures how many labels the model got wrong out of the total number of predictions. The rf score of 35% is the percent of predictions that were incorrect. This was calculated using Scikit-Learn using the true labels from the test set and the predicted labels for the test set.
+
+
+   Prediction	Actual
+   
+13	59.649678	  59.2
+
+39	61.057052	  61.1
+
+30	60.693350	  61.7
+
+45	61.368104	  61.8
+
+17	59.863725	  59.3
+
+48	61.487601	  62.3
+
+26	60.397129	  61.9
+
+25	60.326057	  61.0
+
+32	60.776549	  61.2
+
+19	60.011535	  61.2
+
+12	59.620146	  58.7
+
+4	59.058861	   59.5
+
+37	61.039284	  61.6
+
+classifier.score 0.5343182468166369
+
+A classifier sore of 53% shows a moderate to a strong match between the data predictions and the actual outcomes. A high score indicates a strong match between the input data and the model data.
