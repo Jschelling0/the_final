@@ -58,8 +58,23 @@ We chose climate change for our final project because it is a very important iss
 
 Python, Jupyter Notebook, Pandas, and PostgreSQL
 
+## Extract Transform and Load - ETL
+
+ETL was performed on CSV files listed in the data sources above. All of the ETL work was performed in python using pandas. The connection to the database was established using SQLAlchemy.
+
+
+## Database
+An instance of PostgreSQL on AWS is used to hold the transformed CSV files. The tables were joined to create a view in PostgreSQL that can be accessed by the machine learning model via SQLAlchemy.
+
+
+## Machine Learning
+The machine learning model evolved from a regression model to a classifier.
+
+
 ## Google Slides
 https://docs.google.com/presentation/d/1SSLEs9GDd6zxgO7aJUOREzW75jjVbA5yn8sJpnLifls/edit?usp=sharing
+
+
 
 ## Results/Deliverables
 
