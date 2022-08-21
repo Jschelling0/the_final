@@ -72,9 +72,11 @@ The machine learning model evolved from a regression model to a classifier.
 
 
 ## Dashboard
+
 The draft dashboard is visible on the Results slide, generated from Jupyter notebook code.
 
  URLS for AWS s3 buckets
+ 
 url=https://azclimateemissionsfinals2022.s3.us-west-1.amazonaws.com/Annual+Average+AZ+Temps+1970-2022.csv
     s3://azclimateemissionsfinals2022/Annual Average AZ Temps 1970-2022.csv
     
