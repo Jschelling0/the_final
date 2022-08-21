@@ -278,6 +278,8 @@ Arizona and the rest of the world will reach 150 degrees if CO2 emissions are no
 49	2019	  0.5	           12.70
 
 
+R2 Score: 0.5668356048328688
+
 Looking at the table above and the Metric Tons of Energy-Related CO2 per person for the state of Arizona is very high. From 1970 to 2019 shows that through out the years each CO2 emissions by individuals ranged from 12.70 to 21.30 Metric Tons of Energy-Related. We have to keep in mind that the state of Arizona population in the coming years will increase meaning more people will emit more CO2 metric tons of energy.
 
 Carbon dioxide emissions are the primary driver of global climate change. It’s widely recognized that to avoid the worst impacts of climate change, the world needs to urgently reduce emissions (CO2 emissions. https://ourworldindata.org/co2-emissions)
