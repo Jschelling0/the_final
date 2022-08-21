@@ -71,6 +71,17 @@ An instance of PostgreSQL on AWS is used to hold the transformed CSV files. The 
 The machine learning model evolved from a regression model to a classifier.
 
 
+## Dashboard
+The draft dashboard is visible on the Results slide, generated from Jupyter notebook code.
+
+ URLS for AWS s3 buckets
+url=https://azclimateemissionsfinals2022.s3.us-west-1.amazonaws.com/Annual+Average+AZ+Temps+1970-2022.csv
+    s3://azclimateemissionsfinals2022/Annual Average AZ Temps 1970-2022.csv
+    
+url=https://azclimateemissionsfinals2022.s3.us-west-1.amazonaws.com/CO2+Emissions+from+Fossil+Fuels-+Fuel+Total.csv
+    s3://azclimateemissionsfinals2022/CO2 Emissions from Fossil Fuels- Fuel Total.csv
+
+
 ## Google Slides
 https://docs.google.com/presentation/d/1SSLEs9GDd6zxgO7aJUOREzW75jjVbA5yn8sJpnLifls/edit?usp=sharing
 
