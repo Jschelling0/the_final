@@ -353,3 +353,13 @@ This score measures how many labels the model got wrong out of the total number 
 classifier.score 0.5343182468166369
 
 A classifier sore of 53% shows a moderate to a strong match between the data predictions and the actual outcomes. A high score indicates a strong match between the input data and the model data.
+
+
+ridge.score 0.4688019515118369
+
+ridge.predict array ([59.66165813, 60.99921065, 60.69428078, 61.18704028, 59.81441371,
+       61.25645291, 60.26638008, 60.19425986, 60.77895473, 60.01343383,
+       59.70304779, 59.19863373, 61.14259853])
+       
+A ridge score of 47% shows that the variables are highly correlated. It tells that the predictions and actual variables correlate efficiently.
+
