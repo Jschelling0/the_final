@@ -29,14 +29,18 @@
 
 •	Disasters/Extreme Weather: EM-DAT International Disasters Database
 
-•	Food and Agriculture Organization of the United Nations
+•	Historic AZ Temperature : National Centers for Environmental Information
+
+
+•AZ Emission: EIA US Energy Information Administration
+
+
+•	AZ Population: Macrotrends
 
 
 
 ## Overview of the Project:
 
-
-The FAOSTAT Temperature Change domain disseminates statistics of mean surface temperature change by country, with annual updates. The current dissemination covers the period 1961–2020. Statistics are available for monthly, seasonal, and annual mean temperature anomalies, i.e., temperature change with respect to a baseline climatology, corresponding to the period 1951–1980. The standard deviation of the temperature change of the baseline methodology is also available. Data are based on the publicly available GISTEMP data, the Global Surface Temperature Change data distributed by the National Aeronautics and Space Administration Goddard Institute for Space Studies (NASA-GISS).
 
 
 We chose climate change for our final project because it is a very important issue that affects everyone on the planet. Rising temperatures, extreme weather, and natural disasters are experienced globally each year. Some studies have shown that the planet will reach a temperature of 150 degrees Fahrenheit by the year 2050. These changes in our environment indicate a need for adaptability over time across the globe. Data has been collected to better understand the nature of climate change as it relates to population growth, greenhouse gases, and temperature. Our group’s analysis hopes to determine the following:
@@ -50,7 +54,7 @@ We chose climate change for our final project because it is a very important iss
 
 • What countries are most at-risk of climate change?
 
-• Will the Earth’s temperature reach 150 degrees Fahrenheit by the year 2050? Will Arizona reach   150 degrees Fahrenheit by the year 2050?
+• Will Arizona reach 150 degrees Fahrenheit by the year 2050?
 
 
 
@@ -73,20 +77,9 @@ The machine learning model evolved from a regression model to a classifier.
 
 ## Dashboard
 
-The draft dashboard is visible on the Results slide, generated from Jupyter notebook code.
-
- URLS for AWS s3 buckets
- 
-url=https://azclimateemissionsfinals2022.s3.us-west-1.amazonaws.com/Annual+Average+AZ+Temps+1970-2022.csv
-    s3://azclimateemissionsfinals2022/Annual Average AZ Temps 1970-2022.csv
-    
-url=https://azclimateemissionsfinals2022.s3.us-west-1.amazonaws.com/CO2+Emissions+from+Fossil+Fuels-+Fuel+Total.csv
-    s3://azclimateemissionsfinals2022/CO2 Emissions from Fossil Fuels- Fuel Total.csv
-
 
 ## Google Slides
 https://docs.google.com/presentation/d/1SSLEs9GDd6zxgO7aJUOREzW75jjVbA5yn8sJpnLifls/edit?usp=sharing
-
 
 
 ## Results/Deliverables
