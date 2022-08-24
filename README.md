@@ -199,6 +199,11 @@ For the machine learning of the project, the first variables that were taken int
 With the first machine learning attempt with year, petroleum products, natural gas and coal being the only features, the score for the linear regression model was the highest, at a bit over 50%. In order to increase the score, as mentioned, the features of GDP and population were added. While the linear regression model had the highest accuracy score. The linear regression model stayed roughly the same, with the Random Forest regression over taking linear regression, with an accuracy score of roughly 64%.
 
 ### Correlation between Degrees Fahrenheit and our features ( Petroleum Products, Coal, GDP, Population, Natural Gas)
+![image](population.png)
+![image](GDP.png)
+![image](Petroleum.png)
+![image](coal.png)
+![image](comparison.png)
 
 #### Linear Regression
   Year   Anomaly	      Metric Tons of Energy-Related CO2 per person
