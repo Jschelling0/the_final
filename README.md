@@ -193,9 +193,14 @@ The interactive chart for Smaller Countries shows Saudi Arabia is on top exhibit
 ### Will the Earth’s temperature reach 150 degrees Fahrenheit by the year 2050? Will Tucson reach 150 degrees Fahrenheit by the year 2050?
 
 
-Arizona and the rest of the world will reach 150 degrees if CO2 emissions are not reduced.
+## Machine Learning
+For the machine learning of the project, the first variables that were taken into account were the year, petroleum products, natural gas and coal. The results that were generated were not high enough to have an effective machine learning prediction. In order to increase the score, additional features were added to the machine learning, with annual GDP, and population growth from 1970 to 2019 being included into the machine learning. 
 
+With the first machine learning attempt with year, petroleum products, natural gas and coal being the only features, the score for the linear regression model was the highest, at a bit over 50%. In order to increase the score, as mentioned, the features of GDP and population were added. While the linear regression model had the highest accuracy score. The linear regression model stayed roughly the same, with the Random Forest regression over taking linear regression, with an accuracy score of roughly 64%.
 
+### Correlation between Degrees Fahrenheit and our features ( Petroleum Products, Coal, GDP, Population, Natural Gas)
+
+#### Linear Regression
   Year   Anomaly	      Metric Tons of Energy-Related CO2 per person
  
 0	1970	  -0.8	           13.90
@@ -299,9 +304,10 @@ Arizona and the rest of the world will reach 150 degrees if CO2 emissions are no
 49	2019	  0.5	           12.70
 
 
-R2 Score: 0.5668356048328688
+R2 Score: 0.55
+Accuracy score: 56%
 
-R-squared value is 0.5668 which is 57%. For the purposes of this project, a good linear model is 0.2670 which is (27%) or more. By comparing the R-squared value of 0.5668 to the 0.27 value of a good linear model, it can be concluded that the model effectively predicts Metric Tons of Energy-Related CO2 per person.
+R-squared value is 0.55 which is 55%. Accuracy score of 56%. For the purpose of this project, These scores are not high enough for the purpose of this project to accuaretly be able to predict the temperature in the future.
 Since R2 value is adopted in various research discipline, there is no standard guideline to determine the level of predictive acceptance (https://www.researchgate.net).
 
 
@@ -338,9 +344,9 @@ Carbon dioxide emissions are the primary driver of global climate change. It’s
 
 37	60.978125	  61.6
 
-rf.score 0.34613178210694606
+Random Forest score:  0.638
 
-This score measures how many labels the model got wrong out of the total number of predictions. The rf score of 35% is the percent of predictions that were incorrect. This was calculated using Scikit-Learn using the true labels from the test set and the predicted labels for the test set.
+This score measures how many labels the model got wrong out of the total number of predictions. The rf score of 64% is the percent of predictions that were incorrect. This was calculated using Scikit-Learn using the true labels from the test set and the predicted labels for the test set.
 
 
     Prediction	Actual
@@ -371,16 +377,9 @@ This score measures how many labels the model got wrong out of the total number 
 
 37	61.039284	  61.6
 
-classifier.score 0.5343182468166369
+Ridge Regression
 
-A classifier sore of 53% shows a moderate to a strong match between the data predictions and the actual outcomes. A high score indicates a strong match between the input data and the model data.
+Ridge Regression accurracy 0.60
+A ridge score of 60% shows that the variables are highly correlated. It tells that the predictions and actual variables correlate efficiently.
 
-
-ridge.score 0.4688019515118369
-
-ridge.predict array ([59.66165813, 60.99921065, 60.69428078, 61.18704028, 59.81441371,
-       61.25645291, 60.26638008, 60.19425986, 60.77895473, 60.01343383,
-       59.70304779, 59.19863373, 61.14259853])
-       
-A ridge score of 47% shows that the variables are highly correlated. It tells that the predictions and actual variables correlate efficiently.
 
