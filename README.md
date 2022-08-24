@@ -71,10 +71,6 @@ ETL was performed on CSV files listed in the data sources above. All of the ETL 
 An instance of PostgreSQL on AWS is used to hold the transformed CSV files. The tables were joined to create a view in PostgreSQL that can be accessed by the machine learning model via SQLAlchemy.
 
 
-## Machine Learning
-The machine learning model evolved from a regression model to a classifier.
-
-
 ## Dashboard
 
 
