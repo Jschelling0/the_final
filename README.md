@@ -204,6 +204,7 @@ With the first machine learning attempt with year, petroleum products, natural g
 ![image](Petroleum.png)
 ![image](coal.png)
 ![image](comparison.png)
+![image](gas.png)
 
 #### Linear Regression
   Year   Anomaly	      Metric Tons of Energy-Related CO2 per person
