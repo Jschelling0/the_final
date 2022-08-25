@@ -73,7 +73,7 @@ An instance of PostgreSQL on AWS is used to hold the transformed CSV files. The 
 
 
 ## Google Slides
-https://docs.google.com/presentation/d/e/2PACX-1vSg4h44ptHz4qFQhw0JaSXyjFO-HMN0QVMZaKIXs097lR-FtMFL3qO0VZ3Fo3Xn-M5f9m2ZFSVKFaw8/pub?start=false&loop=false&delayms=3000
+[https://docs.google.com/presentation/d/e/2PACX-1vSg4h44ptHz4qFQhw0JaSXyjFO-HMN0QVMZaKIXs097lR-FtMFL3qO0VZ3Fo3Xn-M5f9m2ZFSVKFaw8/pub?start=false&loop=false&delayms=3000](https://docs.google.com/presentation/d/1SSLEs9GDd6zxgO7aJUOREzW75jjVbA5yn8sJpnLifls/edit?usp=sharing)
 
 
 ## Results/Deliverables
